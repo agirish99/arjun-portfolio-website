@@ -29,9 +29,5 @@ Open http://localhost:3000
 - Set env vars as needed
 - Optionally add Plausible domain in `content/site.json` (socials.plausibleDomain)
 
-## Tests
-- Unit: `pnpm test`
-- E2E (basic): `pnpm e2e`
-
 ## Scripts
 - `pnpm new:project "Title" --slug slug`
