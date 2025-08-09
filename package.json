@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "new:project": "tsx scripts/newProject.ts"
+    "lint": "next lint"
   },
   "dependencies": {
     "@react-three/drei": "^9.103.0",
