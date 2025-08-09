@@ -1,0 +1,15 @@
+{
+  "name": "Arjun Girish",
+  "tagline": "Results-driven Software Engineer with 3+ years of experience building scalable web applications, microservices, and frontend interfaces in enterprise environments. Proven ability to deliver high-quality, testable code across full-stack applications, with expertise in React, TypeScript, Node.js, PostgreSQL, AWS, and Docker. Adept at collaborating in Agile teams, leading UI and testing automation efforts, mentoring junior developers, and working with stakeholders to shape product experiences. Seeking to join innovative engineering teams where quality, performance, and growth mindset are valued.",
+  "location": "Melbourne, VIC",
+  "email": "agirish1999@gmail.com",
+  "phone": "0414740109",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/arjun-girish-1073b5190"
+  },
+  "hero": {
+    "headline": "Arjun Girish",
+    "subheadline": "React \u2022 TypeScript \u2022 Node.js \u2022 AWS",
+    "scene": "neon"
+  }
+}

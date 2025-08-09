@@ -1,0 +1,38 @@
+- company: National Australia Bank
+  role: Associate Engineer, Enterprise Lending Platform (ELP)
+  location: Melbourne, VIC
+  start: May 2024
+  end: Current
+  highlights:
+  - Automated UI regression testing with Selenium WebDriver; reduced manual testing
+    time by ~40% and TSR turnaround.
+  - Mentored graduate and junior developers on code quality, workflows, and onboarding;
+    fostered team growth.
+  - Triaged requirements with product owners and designers to meet functional/security
+    needs and reduce rework.
+  - Led PR reviews and maintained high code quality across frontend and microservice
+    repos.
+  - Deployed multiple production releases with hypercare and incident resolution.
+- company: National Australia Bank
+  role: Team Member Engineer / Technology Intern, ELP
+  location: Melbourne, VIC
+  start: Feb 2022
+  end: Apr 2024
+  highlights:
+  - Built responsive, accessible UI components for multiple React miniapps.
+  - Developed and maintained Node.js microservices supporting enterprise lending workflows.
+  - Set up Mountebank service virtualization to decouple FE/BE dependencies and speed
+    testing.
+  - Achieved >80% code coverage through robust unit/integration tests with Jest, Mocha,
+    and RTL.
+- company: Monash University
+  role: "Teaching Associate \u2013 Materials Engineering"
+  location: Melbourne, VIC
+  start: Jan 2022
+  end: Jul 2023
+  highlights:
+  - Led tutorials, labs, and workshops for first-year students with active learning.
+  - Co-designed assessments and quizzes, contributing to a ~15% uplift in student
+    performance.
+  - Provided feedback and support across a diverse cohort using inclusive teaching
+    strategies.
