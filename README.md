@@ -15,7 +15,6 @@ Open http://localhost:3000
 ## Update Content (no code)
 - Edit `content/site.json`, `content/skills.yml`, `content/experience.yml`
 - Add projects in `content/projects/*.mdx` (or run `pnpm new:project "Title" --slug my-slug`)
-- Optional writing in `content/writing/*.mdx` (or `pnpm new:post "Title"`)
 
 ## Email (Contact form)
 - **Formspree**: set `FORM_ENDPOINT` env to your form endpoint
@@ -36,4 +35,3 @@ Open http://localhost:3000
 
 ## Scripts
 - `pnpm new:project "Title" --slug slug`
-- `pnpm new:post "Title"`

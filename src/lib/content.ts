@@ -106,15 +106,5 @@ export function searchIndex() {
   const projects = loadProjects().map(p => ({
     t: p.title, s: p.summary ?? "", y: p.year, k: p.stack, slug: p.slug, type: "project"
   }));
-  let posts: any[] = [];
-  const blogDir = path.join(contentDir, "writing");
-  if (fs.existsSync(blogDir)) {
-    const files = fs.readdirSync(blogDir).filter(f=>f.endsWith(".mdx"));
-    posts = files.map(filename => {
-      const raw = safeRead(path.join(blogDir, filename));
-      const { data } = matter(raw);
-      return { t: data.title, s: data.summary ?? "", y: data.year ?? 0, slug: data.slug, type: "post" };
-    });
-  }
-  return [...projects, ...posts];
+  return projects;
 }
